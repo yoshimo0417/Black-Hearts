@@ -1249,13 +1249,13 @@
 @1362=~Let's just say, below my payrate. And besides, I have other priorities while I'm here. I can't go gallivanting about, hunting down small time criminals or pillaging demihumans.~
 @1363=~But why should I allow an opportunity slip through my fingers when I could pass it on to an aspiring young adventurer, looking to make their mark on the Realms as well as earn no small amount of gold?~
 @1364=~Yet you work for no lawful enforcement organization? I don't much like the sound of this! <CHARNAME>, I fear this could be vigilantism at best!~
-@1365=~I see. What would be my pay for pursing these on your behalf?~
+@1365=~I see. What would be my pay for pursuing these on your behalf?~
 @1366=~So am I supposed to just do your bounty work for you? I hardly see how that's much of a benefit to me.~
 @1367=~An interesting proposition. Alright, how do we start?~
 @1368=~Are my companion's concerns valid? Are these jobs might involve actions that would fall outside of the law?~
 @1369=~Tsch, paladins. As if the law was concerned with the good of people living in these backwaters. But no, if it's so important, I will not be asking you to pursue anything that would be flagrantly illegal or put you at odds with the Flaming Fist or other "lawful" organizations of the land.~
 @1370=~Hm. Thank you <CHARNAME> for following up with her on this. So long as these jobs of hers serve the greater good, I suppose I can see no harm in them. Perhaps we might even be able to use this chance to find those who have escaped lawful retribution and ensure they face Helm's judgment.~ 
-@1371=~What would be my pay for pursing these on your behalf?~
+@1371=~What would be my pay for pursuing these on your behalf?~
 @1372=~So am I supposed to just do your bounty work for you? I hardly see how that's much of a benefit to me.~
 @1373=~An interesting proposition. Alright, how do we start?~
 @1374=~Dependent on the bounty, obviously. As for your cut, I'd say that an eighty-twenty split in your favor would be more than fair. You are doing the work, after all. I will provide the bounties as well as any intel I've gathered on them.~
@@ -1295,7 +1295,7 @@
 @1408=~The family of the boy that was killed. Paupers, but well enough loved by their neighbors that they could raise a small sum of money to contract the services of at least novice bounty hunters. The bar pitched in as well.~
 @1409=~How many guards have you seen in town? Beregost is halfway between Amn and Baldur's Gate, and enjoys the protection of neither. It has no policing force besides a scant volunteer militia. No, this town depends on a little 'frontier justice' to deal with criminals.~
 @1410=~You are to deal with them. Beregost has no court or prison. Are you going to march them north to Baldur's Gate, where they've broken no laws and will likely be let out by an uncaring magister? Can you even get into Baldur's Gate currently?~
-@1411=~Besides, I doubt this group has the temprement to surrender without a fight. Go and confront them and make your decision then. Perhaps a creative solution will present itself to you. I doubt it, but it's your mission to execute.~
+@1411=~Besides, I doubt this group has the temperament to surrender without a fight. Go and confront them and make your decision then. Perhaps a creative solution will present itself to you. I doubt it, but it's your mission to execute.~
 @1412=~The lowest dregs of adventuring. In nearly every tavern across the face of Faerun, at one point or another, there has come together a few hopeful individuals of varied talents, looking to put their mark on the world. They form together and seek out danger and fame.~
 @1413=~Then there are those who are left behind, would-be heroes or villains that don't quite make the cut. Be it some combination of uselessness, stupidity, unsightliness, or (and most commonly) a simple lack of basic standards of hygiene.~
 @1414=~This group is composed of five of those individuals in addition to a gnoll that they thought would let them intimidate their way down the Sword Coast. A couple of them have some basic magical talents, but nothing extraordinary.~
@@ -1403,7 +1403,7 @@
 @1516=~What's the pay?~
 @1517=~Mmph. Yes, Necromancy is so... classless.~
 @1518=~*laughs* Yes, perhaps you should invest in a clip to pinch your nose shut? Necromancers will always have the advantage when they can use their stench against you.~
-@1519=~They are. Though you may have a working relationship established with the mayor, you'll still be working through me on this one. They want the fact that the depths of the mines are occupied again is being kept quiet, so don't go bumbling about talking about it. Not even the miners and guards in the upper levels have been made aware of it.~
+@1519=~They are. Though you may have a working relationship established with the mayor, you'll still be working through me on this one. They want the fact that the depths of the mines are occupied again to be kept quiet, so don't go bumbling around talking about it. Not even the miners and guards in the upper levels have been made aware of it.~
 @1520=~This mayor, Ghastkill, wants to avoid a bloodbath. And he's shrewd enough to know that sending in barely trained soldiers against a necromancer is essentially just gift wrapping them an army. So once again, it is up to a few more highly skilled individuals to save the day.~
 @1521=~Highly skilled? Watch it Illasera, I might think you're starting to get fond of me.~
 @1522=~That's all I need to know.~
@@ -1424,7 +1424,7 @@
 @1537=~Oh, just so. Next time, you should come with me. I could show you the sights and smells. Oh the smells... there's nothing else like them.~
 @1538=~Very funny. The Necromancer is dead. I have his spellbook.~
 @1539=~*glare*~
-@1540=~As tempting an offer as that is, I think I will pass. Beside, there will be no 'next time'. If that town can't take care of itself now, they can rot.~
+@1540=~As tempting an offer as that is, I think I will pass. Besides, there will be no 'next time'. If that town can't take care of itself now, they can rot.~
 @1541=~I hardly try. But I am glad to see you alive, believe that at least. Find comfort that I will not be sending you that way again. If that town can't take care of itself now, they can rot.~
 @1542=~Oh, don't give me that look, pup. I might break out in tears. Find comfort that I will not be sending you that way again. If that town can't take care of itself now, they can rot.~
 @1543=~Now, let us see that spellbook. Hmm... let's see here. Mmm... oh my. *laughs*~	
@@ -2059,7 +2059,7 @@
 @2166=~Do you know where they might have set up?~
 @2167=~We need to save Nerys. She's our only lead to the Red Wizards now.~
 @2168=~We need to save Nerys. I don't like the thought of her in trouble.~
-@2169=~In my trade, you learn to always expect the worst. And it's hard to expect anything but the worst when it comes ta someone so clearly out of their depth than that gnome.~
+@2169=~In my trade, you learn to always expect the worst. And it's hard to expect anything but the worst when it comes to someone so clearly out of their depth than that gnome.~
 @2170=~I am well familiar with them. The Night Knives are a thieving guild that operate out of my homeland, Sembia. It's unusual that they would operate so far from Selgaunt, especially on the territory of another guild. But we shouldn't be surprised by the reach of the Red Wizards.~
 @2171=~They mostly persist on smuggling, assassination, and petty larceny. Also kidnapping, it would seem. The guildmaster is a particularly distasteful little man who I've heard is not above consorting with demons and undead.~
 @2172=~I've heard some rather unsavory things from former members; that he made a deal with a local vampire lord to "gift" certain guild members with his bite. Sometimes willingly, often not.~
@@ -3672,7 +3672,7 @@
 @6354=~I have learned much, most particularly of the rituals and rites by which Bhaal’s servants could ascend to his most elite and feared agents. The Deathbringers are the most profane and unholy of his servants, Blackguards who serve Bhaal by killing without mercy. It was a rare position to obtain. I suspect Sarevok was the first to rise since Bhaal's death, and the last.~
 @6355=~What did the rite entail?~
 @6356=~Go on then.~
-@6357=~To become a Deathbringer required Bhaal's own tainted blood, often by drinking from a spilled vein from his Avatar-form. It also required one to be a kin-killer, to have slain their sibling, parent, or child. One final ritual would be conducted after all other steps were finished, and while I still work to translate its particular purpose, it seems to be one of... control.~
+@6357=~To become a Deathbringer required Bhaal's own tainted blood, often by drinking from a spilled vein from his Avatar-form. For one of Bhaal's progeny, they were considered doubly blessed, and the greatest of all Deathbringers, but an imbibing of black blood was still necessary. It also required one to be a kin-killer, to have slain their sibling, parent, or child. One final ritual would be conducted by a High Deathstalker after all other steps were finished, and while I still work to translate its particular purpose, it seems to be one of... control.~
 @6358=~His progeny? How many progeny did Bhaal have?~
 @6359=~How could Sarevok have obtained that blood?~
 @6360=~You said a High Deathstalker? Are any still around?~
@@ -4343,7 +4343,7 @@
 @7049=~You've found the location of the glade?~
 @7050=~Ah, if you would allow, I will accompany you out of the camp. I have a few last words to speak to you in private. <CHARNAME>, I will be awaiting you at the glade.~
 @7051=~This statue… a place of importance to my ‘Father’?~
-@7052=~No. It predates him. This shrine belonged to some other god, worshipped by a tribe of men that died out and faded into obscurity beyond any mortal memory, unrecorded in any tome. Forgotten before Nethril was young. The fate of all gods and men, no matter how fearsome they were in their time.~
+@7052=~No. It predates him. This shrine belonged to some other god, worshipped by a tribe of men that died out and faded into obscurity beyond any mortal memory, unrecorded in any tome. Forgotten before Netheril was young. The fate of all gods and men, no matter how fearsome they were in their time.~
 @7053=~I did not come for a history lesson.~
 @7054=~You would do better to find the wisdom in that lesson. But fine, have you consumed the essence?~
 @7055=~Hmph. Foul as it felt, yes. My senses feel... sharp. But I do not feel differently as I would think.~
