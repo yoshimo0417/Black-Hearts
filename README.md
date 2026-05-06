@@ -242,7 +242,7 @@ For any issues had with the mod, make a report through github or contact me at m
   	- Small change to quest flow for narrative improvement.
 
 - Version 2.04
-  	- Brazilian Portuguese translation by DarthNihilus530.
+  	- Brazilian Portuguese translation by @DarthNihilus530.
   	- Make Astral Gemstones critical Items.
   	- Blane.d and bran.d rewrite.
   	- Tamoko move for EET.
@@ -261,6 +261,12 @@ For any issues had with the mod, make a report through github or contact me at m
 	- WeiduModPackager.
 	- Jarl Adventure Pack (Marl) compatibility.
 
+- Version 2.05
+  	- EXTEND_TOP vs EXTEND_BOTTOM
+  	- Correct mistake in previous version
+  	- Correct typo for Simplified Chinese by @Correct typo for Simplified Chinese
+  	- Typos by @SonnePw, @visionok and @maurvir
+
 
 **Special thanks for reporting issues and helping :**
 
@@ -273,5 +279,7 @@ For any issues had with the mod, make a report through github or contact me at m
 - Leith
 - Basicals
 - SonnePw
+- visionok
+- maurvir
 - Jastey
 - Many others
